@@ -1,0 +1,13 @@
+---
+export const prerender = false;
+
+import Layout from "../layouts/Layout.astro";
+import CheckoutContainer from "../components/store/CheckoutPage/Checkout.tsx";
+---
+
+<Layout title="Checkout">
+  <div class="flex gap-6 justify-center">
+    <CheckoutContainer client:load />
+    <div class="mt-6">Cart</div>
+  </div>
+</Layout>

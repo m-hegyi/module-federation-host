@@ -1,0 +1,24 @@
+---
+export const prerender = false;
+
+import Layout from "../../layouts/Layout.astro";
+import ProductContainer from "../../components/store/ProductPage/index.tsx";
+import productsMock from "../../assets/products.json";
+
+const { product: productId } = Astro.params;
+
+const product = productsMock.find(({ id }) => id.toString() === productId);
+
+if (!product) return Astro.redirect("/404");
+
+const { id, productName, price, description } = product;
+---
+
+<Layout title="Product description">
+  <ProductContainer
+    id={id}
+    productName={productName}
+    price={price}
+    description={description}
+  />
+</Layout>

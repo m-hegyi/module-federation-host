@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "productName": "Wireless Earbuds",
+    "price": 59.99,
+    "description": "High-quality wireless earbuds with noise-cancellation and long battery life.",
+    "createdAt": "2024-10-01T10:30:00Z"
+  },
+  {
+    "id": 2,
+    "productName": "Smartphone",
+    "price": 799.99,
+    "description": "Latest model smartphone with 128GB storage, OLED display, and 5G connectivity.",
+    "createdAt": "2024-09-21T14:15:00Z"
+  },
+  {
+    "id": 3,
+    "productName": "Bluetooth Speaker",
+    "price": 34.99,
+    "description": "Portable Bluetooth speaker with deep bass and water-resistant design.",
+    "createdAt": "2024-09-18T08:45:00Z"
+  },
+  {
+    "id": 4,
+    "productName": "Laptop Stand",
+    "price": 24.99,
+    "description": "Adjustable aluminum laptop stand for ergonomic work setup.",
+    "createdAt": "2024-09-30T11:00:00Z"
+  },
+  {
+    "id": 5,
+    "productName": "Fitness Tracker",
+    "price": 89.99,
+    "description": "Waterproof fitness tracker with heart-rate monitor, GPS, and sleep analysis.",
+    "createdAt": "2024-10-02T07:30:00Z"
+  },
+  {
+    "id": 6,
+    "productName": "Gaming Mouse",
+    "price": 49.99,
+    "description": "High-precision gaming mouse with customizable buttons and RGB lighting.",
+    "createdAt": "2024-09-22T13:20:00Z"
+  },
+  {
+    "id": 7,
+    "productName": "4K Monitor",
+    "price": 299.99,
+    "description": "27-inch 4K monitor with HDR support and slim bezels for immersive viewing.",
+    "createdAt": "2024-09-26T09:55:00Z"
+  },
+  {
+    "id": 8,
+    "productName": "Mechanical Keyboard",
+    "price": 79.99,
+    "description": "Tactile mechanical keyboard with RGB backlighting and programmable keys.",
+    "createdAt": "2024-09-28T12:40:00Z"
+  },
+  {
+    "id": 9,
+    "productName": "Noise-Canceling Headphones",
+    "price": 199.99,
+    "description": "Over-ear headphones with active noise-cancellation and long battery life.",
+    "createdAt": "2024-09-29T16:20:00Z"
+  },
+  {
+    "id": 10,
+    "productName": "Smartwatch",
+    "price": 149.99,
+    "description": "Stylish smartwatch with fitness tracking, notifications, and customizable watch faces.",
+    "createdAt": "2024-10-03T14:05:00Z"
+  },
+  {
+    "id": 11,
+    "productName": "USB-C Hub",
+    "price": 39.99,
+    "description": "Multi-port USB-C hub with HDMI, USB 3.0, and SD card reader support.",
+    "createdAt": "2024-10-04T08:10:00Z"
+  },
+  {
+    "id": 12,
+    "productName": "External Hard Drive",
+    "price": 89.99,
+    "description": "1TB external hard drive for fast data transfer and secure backup.",
+    "createdAt": "2024-09-25T15:30:00Z"
+  },
+  {
+    "id": 13,
+    "productName": "Wireless Charger",
+    "price": 29.99,
+    "description": "Fast wireless charging pad compatible with various smartphones and devices.",
+    "createdAt": "2024-09-17T10:50:00Z"
+  },
+  {
+    "id": 14,
+    "productName": "Streaming Webcam",
+    "price": 64.99,
+    "description": "1080p streaming webcam with auto-focus and built-in microphone for video calls.",
+    "createdAt": "2024-09-19T14:35:00Z"
+  },
+  {
+    "id": 15,
+    "productName": "Electric Toothbrush",
+    "price": 59.99,
+    "description": "Rechargeable electric toothbrush with multiple brushing modes and a timer.",
+    "createdAt": "2024-09-23T07:25:00Z"
+  },
+  {
+    "id": 16,
+    "productName": "Portable Power Bank",
+    "price": 44.99,
+    "description": "10000mAh portable power bank with dual USB ports for quick charging.",
+    "createdAt": "2024-09-24T12:50:00Z"
+  },
+  {
+    "id": 17,
+    "productName": "Smart Home Hub",
+    "price": 129.99,
+    "description": "Voice-activated smart home hub compatible with various smart devices.",
+    "createdAt": "2024-09-27T16:45:00Z"
+  },
+  {
+    "id": 18,
+    "productName": "Electric Kettle",
+    "price": 39.99,
+    "description": "Stainless steel electric kettle with quick boil and auto shut-off features.",
+    "createdAt": "2024-10-01T09:10:00Z"
+  },
+  {
+    "id": 19,
+    "productName": "Action Camera",
+    "price": 149.99,
+    "description": "4K action camera with waterproof housing and image stabilization for outdoor adventures.",
+    "createdAt": "2024-09-20T11:30:00Z"
+  },
+  {
+    "id": 20,
+    "productName": "Standing Desk Converter",
+    "price": 179.99,
+    "description": "Height-adjustable standing desk converter with ample workspace for monitors and accessories.",
+    "createdAt": "2024-09-16T15:00:00Z"
+  }
+]
